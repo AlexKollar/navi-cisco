@@ -1,0 +1,7 @@
+# Navi Cisco runs on the Python standard library alone — the core
+# needs nothing installed. The only computation is mask arithmetic,
+# which goes through Python's ipaddress module; everything else is
+# knowledge and config text frozen into the chip. There are no
+# optional extras: every command works fully offline, and nothing
+# in the chip touches a network or a device — it writes TEXT the
+# student reviews and pastes into Packet Tracer or lab gear.
